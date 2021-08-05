@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LordofdaCode
+- 👋 Hi, I’m @Lord_of_The_Code
 - 👀 I’m interested in Music,Coding,reading, and science.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on 
